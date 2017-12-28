@@ -1,3 +1,15 @@
-footer{
-	background-color: black;
+.card{
+	image-rendering: auto;
+	image-rendering: crisp-edges;
+	image-rendering: pixelated;
+}
+
+.d-block{
+	image-rendering: auto;
+	image-rendering: crisp-edges;
+	image-rendering: pixelated;
+}
+
+.Logo{
+	margin-left: 0;
 }
